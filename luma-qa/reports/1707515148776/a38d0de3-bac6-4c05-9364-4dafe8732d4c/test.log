@@ -1,4 +1,0 @@
-[2024-02-09 09:46:22] [1] [WARN] Reporting disabled: using no op test run registrar
-[2024-02-09 09:46:22] [1] [INFO] TEST [luma-qa - testOpenWhatsNewPage] STARTED at [22:46:22 2024-02-09]
-[2024-02-09 09:46:23] [1] [INFO] Element 'whatsNewButton' is clicked.
-[2024-02-09 09:46:23] [1] [INFO] TEST [luma-qa - testOpenWhatsNewPage] PASSED at [22:46:23 2024-02-09]

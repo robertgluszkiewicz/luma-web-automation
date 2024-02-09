@@ -1,4 +1,0 @@
-[2024-02-09 09:47:42] [1] [WARN] Reporting disabled: using no op test run registrar
-[2024-02-09 09:47:42] [1] [INFO] TEST [luma-qa - testOpenSalePage] STARTED at [22:47:42 2024-02-09]
-[2024-02-09 09:47:43] [1] [INFO] Element 'saleButton' is clicked.
-[2024-02-09 09:47:44] [1] [INFO] TEST [luma-qa - testOpenSalePage] PASSED at [22:47:44 2024-02-09]
