@@ -1,0 +1,22 @@
+[2024-02-09 09:46:49] [1] [INFO] 
+============= Basic configuration =============
+env=PROD
+=========== WebDriver configuration ===========
+url=https://magento.softwaretestingboard.com
+browser=chrome
+selenium_url=http://localhost:4444/wd/hub
+-------------- Driver capabilities ------------
+===============================================
+
+[2024-02-09 09:46:49] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-02-09 09:46:51] [1] [INFO] [TestNG] Running:
+  /Users/robert/Library/Caches/JetBrains/IntelliJIdea2023.3/temp-testng-customsuite.xml
+
+[2024-02-09 09:46:51] [1] [INFO] Set thread-count=1
+[2024-02-09 09:46:51] [1] [INFO] Set data-provider-thread-count=1
+[2024-02-09 09:46:51] [1] [INFO] CARINA_CORE_VERSION: 1.2.6
+[2024-02-09 09:46:51] [1] [INFO] Starting driver session...
+[2024-02-09 09:46:54] [1] [INFO] Driver session started.
+[2024-02-09 09:46:54] [1] [INFO] INFO: opening url 'https://magento.softwaretestingboard.com'
+[2024-02-09 09:46:57] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2024-02-09 09:46:57] [1] [INFO] RESULT #1: TEST [luma-qa - testOpenHomePage] PASS [log=file:///Users/robert/Desktop/Dev/javaProjects/solvd_laba/luma-web-automation/luma-qa/reports/1707515209039/315b7c88-d49c-4348-aef7-ffa93c03eb6c/test.log]

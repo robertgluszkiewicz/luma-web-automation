@@ -1,0 +1,27 @@
+[2024-02-09 09:44:29] [1] [INFO] 
+============= Basic configuration =============
+env=PROD
+=========== WebDriver configuration ===========
+url=https://magento.softwaretestingboard.com
+browser=chrome
+selenium_url=http://localhost:4444/wd/hub
+-------------- Driver capabilities ------------
+===============================================
+
+[2024-02-09 09:44:29] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-02-09 09:44:32] [1] [INFO] [TestNG] Running:
+  /Users/robert/Library/Caches/JetBrains/IntelliJIdea2023.3/temp-testng-customsuite.xml
+
+[2024-02-09 09:44:32] [1] [INFO] Set thread-count=1
+[2024-02-09 09:44:32] [1] [INFO] Set data-provider-thread-count=1
+[2024-02-09 09:44:32] [1] [INFO] CARINA_CORE_VERSION: 1.2.6
+[2024-02-09 09:44:32] [1] [INFO] Starting driver session...
+[2024-02-09 09:44:36] [1] [INFO] Driver session started.
+[2024-02-09 09:44:36] [1] [INFO] INFO: opening url 'https://magento.softwaretestingboard.com'
+[2024-02-09 09:45:08] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2024-02-09 09:45:08] [1] [INFO] RESULT #1: TEST [luma-qa - testMenWomanPage] PASS [log=file:///Users/robert/Desktop/Dev/javaProjects/solvd_laba/luma-web-automation/luma-qa/reports/1707515069687/419156c6-ee22-4a25-8634-a7a7aa6a69bd/test.log]
+[2024-02-09 09:45:08] [1] [INFO] RESULT #2: TEST [luma-qa - testOpenHomePage] FAIL [log=file:///Users/robert/Desktop/Dev/javaProjects/solvd_laba/luma-web-automation/luma-qa/reports/1707515069687/6dac223d-d758-4406-b17c-80d43900856b/test.log]
+[2024-02-09 09:45:08] [1] [INFO] RESULT #3: TEST [luma-qa - testOpenSalePage] PASS [log=file:///Users/robert/Desktop/Dev/javaProjects/solvd_laba/luma-web-automation/luma-qa/reports/1707515069687/ac9a953c-7c27-4914-a70a-0d0adfa0fa3c/test.log]
+[2024-02-09 09:45:08] [1] [INFO] RESULT #4: TEST [luma-qa - testOpenTrainingPage] PASS [log=file:///Users/robert/Desktop/Dev/javaProjects/solvd_laba/luma-web-automation/luma-qa/reports/1707515069687/fde3d320-f7d9-4405-b105-25616b01d9a0/test.log]
+[2024-02-09 09:45:08] [1] [INFO] RESULT #5: TEST [luma-qa - testOpenWhatsNewPage] PASS [log=file:///Users/robert/Desktop/Dev/javaProjects/solvd_laba/luma-web-automation/luma-qa/reports/1707515069687/aecc973b-f19d-48cb-8813-8996b0ffc878/test.log]
+[2024-02-09 09:45:08] [1] [INFO] RESULT #6: TEST [luma-qa - testOpenWomanPage] PASS [log=file:///Users/robert/Desktop/Dev/javaProjects/solvd_laba/luma-web-automation/luma-qa/reports/1707515069687/e49780ae-c323-4566-981a-d031e2cb76b0/test.log]

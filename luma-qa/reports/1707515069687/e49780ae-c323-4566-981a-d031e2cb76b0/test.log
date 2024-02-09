@@ -1,0 +1,4 @@
+[2024-02-09 09:45:06] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-02-09 09:45:06] [1] [INFO] TEST [luma-qa - testOpenWomanPage] STARTED at [22:45:06 2024-02-09]
+[2024-02-09 09:45:08] [1] [INFO] Element 'womenButton' is clicked.
+[2024-02-09 09:45:08] [1] [INFO] TEST [luma-qa - testOpenWomanPage] PASSED at [22:45:08 2024-02-09]
