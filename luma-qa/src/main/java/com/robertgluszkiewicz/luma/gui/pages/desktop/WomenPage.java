@@ -1,8 +1,8 @@
-package com.robertgluszkiewicz.luma.pages.desktop;
+package com.robertgluszkiewicz.luma.gui.pages.desktop;
 
 import org.openqa.selenium.WebDriver;
 
-import com.robertgluszkiewicz.luma.pages.common.WomenPageBase;
+import com.robertgluszkiewicz.luma.gui.pages.common.WomenPageBase;
 import com.zebrunner.carina.utils.factory.DeviceType;
 
 @DeviceType(pageType = DeviceType.Type.DESKTOP, parentClass = WomenPageBase.class)

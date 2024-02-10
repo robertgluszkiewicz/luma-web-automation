@@ -1,13 +1,13 @@
-package com.robertgluszkiewicz.luma.pages.common;
+package com.robertgluszkiewicz.luma.gui.pages.common;
 
 import org.openqa.selenium.WebDriver;
 
 import com.zebrunner.carina.webdriver.gui.AbstractPage;
 
-public abstract class MenPageBase extends AbstractPage {
-    public MenPageBase(WebDriver driver) {
+public abstract class SalePageBase extends AbstractPage {
+    public SalePageBase(WebDriver driver) {
         super(driver);
-        this.setPageURL("/men.html");
+        this.setPageURL("/sale.html");
     }
 
     @Override

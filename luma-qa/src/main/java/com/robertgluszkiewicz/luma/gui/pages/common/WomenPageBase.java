@@ -1,4 +1,4 @@
-package com.robertgluszkiewicz.luma.pages.common;
+package com.robertgluszkiewicz.luma.gui.pages.common;
 
 import org.openqa.selenium.WebDriver;
 
